@@ -1,7 +1,7 @@
-# DEMO
+# GITHUB
 
-some description!
+## Aim :
+To send code from github to vscode
 
-## Subheader
-
-watch tutorial on IGTV.
+### Process:
+To know the process follow the youtube video by gwen.

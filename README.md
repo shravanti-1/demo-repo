@@ -4,4 +4,4 @@ some description!
 
 ## Subheader
 
-watch tutorial on Youtube.
+watch tutorial on IGTV.

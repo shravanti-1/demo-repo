@@ -10,4 +10,4 @@ To send code from github to vscode
 4. The data is stored locally , to make it live in GITHUB use command “git push”.
 
 #### Conclusion:
-You will learn how to send the code from github to vscode by cloning as well as how to add code in vscode and send it back to github.
+You will learn how to send the code from github to vscode by cloning as well as how to add code in vscode.

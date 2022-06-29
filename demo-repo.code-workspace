@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Microsoft VS Code\\Git"
+		},
+		{
+			"name": "demo-repo-1",
+			"path": "..\\..\\demo-repo-1"
+		},
+		{
+			"path": "..\\..\\2022 frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2022 frontend"
+	}
+}

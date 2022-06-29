@@ -1,13 +1,13 @@
-# GITHUB
+# 4th of July
 
-## Aim :
-To send code from github to vscode
+## Recipes :
 
-### Process:
-1. You can add more text in visual studio , but to save it in GIT , use “git status” command . 
-2. But if you added a file in visual studio use “git add period” .
-3. After doing this , use “git commit –m “ added…” then this will go to message and description box of GIT. 
-4. The data is stored locally , to make it live in GITHUB use command “git push”.
-
-#### Conclusion:
-You will learn how to send the code from github to vscode by cloning as well as how to add code in vscode.
+1. Potato salad
+2. Cheesecake
+3. Pasta
+4. Brownies
+5. Sweetcorn
+6. Baked beans
+7. Chicago-style Hot Dog
+8. Watermelon salad
+9. Hamburgers

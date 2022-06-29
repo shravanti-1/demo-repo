@@ -1,6 +1,6 @@
 # 4th of July
 
-## Recipes :
+# Recipes :
 
 1. Potato salad
 2. Cheesecake
